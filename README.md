@@ -16,5 +16,5 @@ Command prompt:  For generating traffic using ping commands and identifying the 
 * Type **ping google** on the command prompt to generate traffic.
 * Stop capture after 1 min.
 * Filter captured protocols: TCP, HTTP, DNS
-* Export the file as **pcap*.
+* Export the file as *pcap*.
 
